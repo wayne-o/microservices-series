@@ -1,0 +1,4 @@
+config:
+  twentytwenty:namespace: twentytwenty
+  twentytwenty:someSecretKey:
+    secure: AAABAAclYtYz0uuIjpL2gSj5JIxN6REtejHFZQpV+dHW/69a6Og1vgPuRxTr/DrV9Q==
